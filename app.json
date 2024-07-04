@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "BeYadBiar",
+    "slug": "beyadbiar",
+    "version": "0.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "ir.tahanian.beyadbiar"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-localization"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b53adf48-76bb-4e55-aff6-2d9efc5d0d9d"
+      }
+    },
+    "owner": "miladtahanian"
+  }
+}

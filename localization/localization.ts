@@ -1,0 +1,82 @@
+export const localization = {
+  en: {
+    remember: 'بِیاد',
+    me: 'بیار',
+    buttons: {
+      addWord: 'افزودن کلمه',
+      repeatWords: 'یادآوری کلمات',
+      repeatTranslations: 'یادآوری ترجمه',
+      close: 'بستن',
+      yes: 'بله',
+      add: 'افزودن',
+      delete: 'حذف',
+      cancel: 'لغو',
+      ok: 'بله'
+    },
+    checkAll: 'انتخاب همه',
+    addWord: 'افزودن کلمه',
+    dictionaries: 'دایره لغات',
+    dictionary: 'لغت نامه',
+    selectDictionaries: 'انتخاب لغت نامه',
+    repeatWords: 'یادآوری کلمات',
+    theWord: 'کلمه',
+    dictionaryName: 'نام برای لغت نامه',
+    theTranslation: 'ترجمه',
+    iLearned: 'یادگرفتم',
+    noWordsLeft: 'کلمه ای باقی نمانده، همه را گذراندید.',
+    allDictionaryWordsWillBeDeleted: 'تمامی کلمات از دایره لغات حذف می شوند.',
+    noDictionariesCreated: 'هیچ لغتنامه این ایجاد نشده',
+    createDictionaryFirst: 'یک لغت نامه بسازید.',
+    areYouSure: 'آیا مطمئن هستید',
+    errors: {
+      fillTheFields: 'جای خالی را پر کنید',
+      cannotAddWordToDB: 'خطای افزودن کلمه به پایگاه داده ها',
+    },
+    snackbars: {
+      wordAdded: 'کلمه اضافه شد',
+      dictionaryAdded: 'لغت نامه اضافه شد',
+      dictionaryDeleted: 'لغت نامه حذف شد',
+    },
+    guessed: 'پاسخ صحیح: {{count}}'
+  },
+  fa: {
+    remember: 'بیاد',
+    me: 'بیار',
+    buttons: {
+      addWord: 'افزودن کلمه',
+      repeatWords: 'یادآوری کلمات',
+      repeatTranslations: 'یادآوری ترجمه',
+      close: 'بستن',
+      yes: 'بله',
+      add: 'افزودن',
+      delete: 'حذف',
+      cancel: 'لغو',
+      ok: 'بله'
+    },
+    checkAll: 'انتخاب همه',
+    addWord: 'افزودن کلمه',
+    dictionaries: 'دایره لغات',
+    dictionary: 'لغت نامه',
+    selectDictionaries: 'انتخاب لغت نامه',
+    repeatWords: 'یادآوری کلمات',
+    theWord: 'کلمه',
+    dictionaryName: 'نام برای لغت نامه',
+    theTranslation: 'ترجمه',
+    iLearned: 'یادگرفتم',
+    noWordsLeft: 'کلمه ای باقی نمانده، همه را گذراندید.',
+    allDictionaryWordsWillBeDeleted: 'تمامی کلمات از دایره لغات حذف می شوند.',
+    noDictionariesCreated: 'هیچ لغتنامه این ایجاد نشده',
+    createDictionaryFirst: 'یک لغت نامه بسازید.',
+    areYouSure: 'آیا مطمئن هستید',
+    errors: {
+      fillTheFields: 'جای خالی را پر کنید',
+      cannotAddWordToDB: 'خطای افزودن کلمه به پایگاه داده ها',
+    },
+    snackbars: {
+      wordAdded: 'کلمه اضافه شد',
+      dictionaryAdded: 'لغت نامه اضافه شد',
+      dictionaryDeleted: 'لغت نامه حذف شد',
+    },
+    guessed: 'پاسخ صحیح: {{count}}'
+  }
+};
